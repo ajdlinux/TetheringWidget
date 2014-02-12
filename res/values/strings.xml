@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Tethering Widget</string>
+    <string name="data">Data</string>
+    <string name="USB">USB</string>
+    <string name="AP">AP</string>
+    <string name="tethering">Tether</string>
+
+</resources>
